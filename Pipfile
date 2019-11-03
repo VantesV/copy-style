@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow = "*"
+matplotlib = "*"
+scipy = "*"
+numpy = "*"
+pillow = "*"
+ipykernel = "*"
+torch = "*"
+torchvision = "*"
+opencv-python = "==3.4.2.16"
+opencv-contrib-python = "*"
+
+[dev-packages]
+pylint = "*"
+pytest = "*"
+rope = "*"
+"autopep8" = "*"
+
+[requires]
+python_version = "3.6"
