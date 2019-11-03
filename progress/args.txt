@@ -1,0 +1,1 @@
+python main.py src/golden_temple2.jpg --style src/vangogh.jpg --output output/res1.jpg --resize=True --progress=progress --max-size=False

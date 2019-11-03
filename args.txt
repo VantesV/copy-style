@@ -1,0 +1,1 @@
+python main.py src/golden_temple2.jpg --style src/vangogh.jpg --o output/res2.jpg --resize --progress progress
